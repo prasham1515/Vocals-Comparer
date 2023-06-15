@@ -1,0 +1,6 @@
+librosa
+spleeter
+numpy 
+soundfile 
+tensorflow
+matplotlib
